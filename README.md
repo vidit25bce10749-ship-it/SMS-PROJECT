@@ -50,7 +50,7 @@ STEP 2 : Installation and Execution
 
 Clone the repository:
 
-git clone https://github.com/rishi25bai11009-eng/IPSP-project.git cd student-management-system
+git clone https://github.com/vidit25bce10749-ship-it/SMS-PROJECT.git cd student-management-system
 
 STEP 3 : Run the application:
 
